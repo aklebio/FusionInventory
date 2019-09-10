@@ -1,2 +1,2 @@
-chmod +x fusioninstall.sh
+# chmod +x fusioninstall.sh
 ./fusioninstall.sh
